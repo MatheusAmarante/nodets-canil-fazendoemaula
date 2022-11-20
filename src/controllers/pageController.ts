@@ -13,8 +13,7 @@ export const cats = (req: Request, res: Response) => {
     // res.render('pages/page');
 }
 export const fishes = (req: Request, res: Response) => {
-   //modifiquei de volta
+   
     // res.render('pages/page');
-    // depois de deletado o branch;
-    //
-}
+    
+}//resolvido tudo no seeu devido lugar
